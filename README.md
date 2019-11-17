@@ -1,8 +1,8 @@
 # Tools-JONES
 
 
-pkg updade -y && pkg upgrade -y
-pkg install Bash
+pkg update -y && pkg upgrade -y
+pkg install bash
 pkg install openssh
 pip2 install requests
 git clone https://Zein-ID/Tools-JONES
